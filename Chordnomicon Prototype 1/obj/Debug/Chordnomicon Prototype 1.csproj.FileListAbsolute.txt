@@ -1,0 +1,10 @@
+c:\users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\bin\Debug\Chordnomicon Prototype 1.exe.config
+c:\users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\bin\Debug\Chordnomicon Prototype 1.exe
+c:\users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\bin\Debug\Chordnomicon Prototype 1.pdb
+c:\users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\obj\Debug\Chordnomicon Prototype 1.csprojResolveAssemblyReference.cache
+c:\users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\obj\Debug\Chordnomicon Prototype 1.csproj.CoreCompileInputs.cache
+c:\users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\obj\Debug\Chordnomicon Prototype 1.exe
+c:\users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\obj\Debug\Chordnomicon Prototype 1.pdb
+C:\Users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\bin\Debug\nunit.framework.dll
+C:\Users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\bin\Debug\nunit.framework.pdb
+C:\Users\caleb\source\repos\Chordnomicon Prototype 1\Chordnomicon Prototype 1\bin\Debug\nunit.framework.xml
